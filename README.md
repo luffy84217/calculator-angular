@@ -1,10 +1,10 @@
-# Calculator-React-Redux
+# Calculator-Angular
 
-This is a calculator built by react with Redux.
+This is a calculator built by react with Angular.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development.
 
 ### Prerequisites
 
@@ -43,4 +43,4 @@ npm start
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
